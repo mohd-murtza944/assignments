@@ -1,0 +1,15 @@
+#include<iostream>
+using namespace std;
+
+int main(){
+     int salary, HRA,DA;
+     cout<<"salary of a perosn:";
+     cin>>salary;
+
+    if (salary<1500)
+    
+
+
+    return 0;
+}
+
